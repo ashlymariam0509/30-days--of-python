@@ -21,4 +21,5 @@ TASK: 3: LIST PROGRAMS:
                   length=len(list)
                   
                   print(length)  
- 
+
+ Expected output is 5.
