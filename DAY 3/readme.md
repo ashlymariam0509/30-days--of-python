@@ -10,6 +10,7 @@ Q)  Write a python program to find the  Area of a trapezoid.
 
   HINT:   Area of trapezoid is 1/2(a+b)*h.
           Ask the values for a,b and h as user input and perform the task.
+          
 TASK: 3: LIST PROGRAMS:
 
  Q)  Create a list containing the values and find the length of the list.
