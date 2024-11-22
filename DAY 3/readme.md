@@ -14,7 +14,9 @@ TASK: 3: LIST PROGRAMS:
 
  Q)  Create a list containing the values and find the length of the list.
  
-  hint: Example: if list=[1,2,3,4,5]
+  hint: Example:
+  
+                  list=[1,2,3,4,5]
   
                   length=len(list)
                   
