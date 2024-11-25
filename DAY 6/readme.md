@@ -23,7 +23,8 @@ TASK 1: DISPLAY NUMBERS USING LOOP
   Q)4   Write  the python program to find the sum of first 10 numbers.
 
    HINT:  set sum=0 and num=1, use while loop and print sum
-    output: 55
+   
+   output: 55
    
    
                
