@@ -7,9 +7,13 @@ TASK 1: DISPLAY NUMBERS USING LOOP
    Q)2  Write a python program to find the numbers of even and odd numbers from a series of numbers.
 
    hint: create a list ,use for loop . check the condition for even numbers and print even number else print odd number.
-    example: l=[1,4,3]
-             output= 1 is an odd number
-                     4 is an even number
+   
+  example: l=[1,4,3]
+    
+ output= 1 is an odd number
+             
+ 4 is an even number
+ 
   Q)3   Write a python  program to count the number of vowels in a string using a for loop.
 
    HINT: create a string. assign vowels and set count then use for loop then check the condition and print it.
