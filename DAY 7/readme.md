@@ -29,37 +29,15 @@ HINT:
 Accept input from user in Python.
 Calculate sum and average in Python.
 
-TASK 3: Display numbers from a list using a loop.
 
-QN 3 Write a Python program to display only those numbers from a list that satisfy the following conditions.
-
-The number must be divisible by five.
-
-If the number is greater than 150, then skip it and move to the following number
-
-If the number is greater than 500, then stop the loop.
-
-Given:
-
-numbers = [12, 75, 150, 180, 145, 525, 50]
-
-Expected output:
-
-75
-
-150
-
-145
-
-
-TASK 4: Count the total number of digits in a number.
+TASK 3: Count the total number of digits in a number.
 
 QN4 Write a Python program to count the total number of digits in a number using a while loop.
 
 For example, the number is 75869, so the output should be 5.
 
 
-TASK 5: Print list in reverse order using a loop.
+TASK 4: Print list in reverse order using a loop.
 
 Given:
 
