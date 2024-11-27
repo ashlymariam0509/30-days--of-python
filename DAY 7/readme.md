@@ -3,9 +3,13 @@ TASK 1: Print the following pattern
 QN1 Write a Python code to print the following number pattern using a loop.
 
 1 
+
 1 2 
+
 1 2 3 
-1 2 3 4 
+
+1 2 3 4
+
 1 2 3 4 5
 
   TASK 2: Calculate sum of all numbers from 1 to a given number
