@@ -5,7 +5,7 @@ TASK 1:
 
 Q3)  Write a program to display the product of the numbers accepted from the user.
 
-Q4)  Create a tuple and perform the following methods:
+Q4)  Create a set and perform the following methods:
 
    Add ,Remove, Update, Pop,and clear
 
