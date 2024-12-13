@@ -67,31 +67,6 @@ Question 10: Write a Python program to clear all elements from a set.
 
 my_set.clear() 
   
-Question 11: Write a Python program to remove and return an arbitrary element from a set.
-  
-example:
 
-element = my_set.pop()
-  
-Question 12: Write a Python program to find the maximum and minimum elements in a set.
 
-example:
-
-maximum = max(my_set)
-  
-minimum = min(my_set)  
-  
-Question 13: Write a Python program to find the difference between two sets using the '-' operator.
-
-example:
-
-difference_set = set1 - set2  
-  
-Question 14: Write a Python program to convert a list into a set.
-  
-example:
-
-my_list = [1, 2, 3, 4, 5]
-  
-my_set = set(my_list)        
   
