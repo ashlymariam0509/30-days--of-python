@@ -1,0 +1,11 @@
+set1={11,22,33,57,44,66}
+set1.add(77)
+print(set1)
+set1.remove(57)
+print(set1)
+set1.update([77,88,99])
+print(set1)
+set1.pop()
+print(set1)
+set1.clear()
+print(set1)
