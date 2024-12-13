@@ -1,0 +1,9 @@
+numbers={4,7,5,9,1}
+numbers.add(8)
+print(numbers)
+numbers.remove(4)
+print(numbers)
+numbers.update([7,6])
+print(numbers)
+numbers.pop()
+print(numbers)
